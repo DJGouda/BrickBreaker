@@ -1,3 +1,4 @@
+// @Duren Gouda
 import java.awt.*;
 
 // Map Generator Class
